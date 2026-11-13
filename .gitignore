@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Eğitim çıktıları ve derlem
+ciktilar/
+onbellek/
+derlem/
+*.parquet
+*.pkl

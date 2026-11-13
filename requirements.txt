@@ -1,0 +1,6 @@
+tokenizers==0.23.3
+transformers==5.22.2
+zemberek-python==0.2.3
+antlr4-python3-runtime==4.8
+pyarrow>=14
+pytest>=8
